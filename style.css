@@ -1,0 +1,18 @@
+
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .carousel-item img {
+        height: 50vh;
+    
+    }
+    
+
+    
+
+    img {
+        object-fit: cover;
+    }
